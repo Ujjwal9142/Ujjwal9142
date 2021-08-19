@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ujjwal Jha
+- 👋 Hi, I’m Ujjwal Jha
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning new frontend technologies
 - 💞️ I’m looking to collaborate on intresting Front-end projects
