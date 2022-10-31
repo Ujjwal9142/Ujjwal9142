@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ujjwal Jha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning new frontend technologies
-- 💞️ I’m looking to collaborate on intresting Front-end projects
+- 🌱 I’m currently learning new backend technologies
+- 💞️ I’m looking to collaborate on intresting Front-end and Back-end projects
 - 📫 How to reach me: jhaujjwal9142@gmail.com
 
 <!---
